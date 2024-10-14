@@ -6,7 +6,7 @@ This repository accompanies my blog series: https://medium.com/@sane.ai/deep-rei
 
 ## Part 0: Introduction
 Set up: <br />
-git clone https://github.com/xkaple00/deep-reinforcement-learning-for-crypto-trading.git <br />
+git clone https://github.com/fedallah-jr/deep-reinforcement-learning-for-crypto-trading.git <br />
 cd deep-reinforcement-learning-for-crypto-trading <br />
 conda env create -f environment.yml <br />
 
